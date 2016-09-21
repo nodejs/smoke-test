@@ -12,5 +12,4 @@ Smoke testing node core.
 <tr><th align="left">Hans Kristian Flaatten</th><td><a href="https://github.com/Starefossen">GitHub/Starefossen</a></td><td>-</td></tr>
 <tr><th align="left">thefourtheye</th><td><a href="https://github.com/thefourtheye">GitHub/thefoutheye</a></td><td>-</td></tr>
 <tr><th align="left">Rich Trott</th><td><a href="https://github.com/Trott">GitHub/Trott</a></td><td>-</td></tr>
-<tr><th align="left">Wraithan (Chris McDonald)</th><td><a href="https://github.com/wraithan">GitHub/wraithan</a></td><td>-</td></tr>
 </tbody></table>
